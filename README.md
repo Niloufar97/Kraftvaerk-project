@@ -4,7 +4,7 @@ During our project period with Kraftvaerk, our team took on the challenge of
 transitioning a key element of Kraftvaerk's website. The organization currently operates 
 with an Angular-based website and expressed the desire to migrate to React.js. Our 
 assigned task involved laying the groundwork for this transition by focusing on the 
-basics, specifically crafting the SST (Standard Smoke Tests) page. This project allowed 
+basics, specifically crafting the SST page. This project allowed 
 us to delve into the intricacies of React.js and contribute to the initial stages of 
 Kraftvaerk's migration journey.
 Here are the pictures of the final product:
