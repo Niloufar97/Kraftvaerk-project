@@ -1,0 +1,20 @@
+.selectDiv{
+    width:20%;
+    display:flex;
+    flex-direction: column;
+    justify-items: flex-end;
+    padding-bottom:10px;
+}
+
+.select-p{
+    color: rgba(255,255,255,.7);
+    padding:4px 0 0 12px;
+    font-size: 12px;
+}
+
+.select-options{
+    font-size: 16px;
+    color: #fff;
+    padding: 10px 0px;
+}
+ 

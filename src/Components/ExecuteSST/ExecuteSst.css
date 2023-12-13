@@ -1,0 +1,80 @@
+.mainBtn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 1rem 1rem 1rem;
+}
+/*.mainBtn div {
+  margin: 1rem;
+}*/
+
+.inputs {
+  padding: 8px;
+  border: none;
+  border-bottom: 1px solid #3a3939;
+  width: 100%;
+  background-color: #3a3939;
+  color: aliceblue;
+  font-size: 1rem;
+}
+.selectDiv {
+  width: 10%;
+}
+.tableDiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 3rem;*/
+  background-color: #424242;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0 1rem;
+}
+
+td,
+th {
+  text-align: left;
+  padding: 8px;
+}
+/*
+tr:nth-child(even) {
+  border-bottom: 2px solid rgb(199, 194, 194);
+}
+.lineTable {
+  border-bottom: 2px solid white;
+}*/
+.ExecuteBtn {
+  background-color: rgb(6, 112, 182);
+  color: aliceblue;
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.Edit {
+  background-color: rgb(11, 128, 102);
+  color: aliceblue;
+  padding-right: 1rem;
+  padding-top: 10px;
+  padding-left: 1rem;
+  padding-bottom: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.Delete {
+  background-color: rgb(182, 6, 6);
+  color: aliceblue;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.execute-container{
+  display:flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 3.125rem;
+}

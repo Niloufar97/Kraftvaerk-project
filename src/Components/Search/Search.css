@@ -1,0 +1,14 @@
+
+.search-inputs {
+    padding: 8px;
+    border: none;
+    border-bottom: 1px solid #ffffffb3;
+    width: 100%;
+    background-color: #3e3e3e;
+    color: #ececec;
+    font-size: 1rem;
+  }
+
+  .search-dev{
+    padding-top:10px;
+  }
